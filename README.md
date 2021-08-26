@@ -1,2 +1,2 @@
 # First-Repo
-this is sample text by samyuktha
+this is sample text by samyuktha k
